@@ -1,0 +1,21 @@
+body {
+  padding-top: 60px; //the height of navbar
+  font-family: $sans;
+
+  fotn-weight: $light;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font;
+}
+
+h1 {
+  color: $brand-primary;
+}
+h2 {
+  font-size: 4rem;
+}
+
+.lead {
+  margin-bottom: 1em;
+}
